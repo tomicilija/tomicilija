@@ -21,7 +21,7 @@ I want to be on the front line in advancing and scaling up teams and businesses 
 
 ### ⚡ I’m currently working on
 <h4>
-<img src="https://avatars.githubusercontent.com/u/88553986" width="15"> <a href="https://skillupmentor.com/" target="_blank">SkillUp Mentor</a> Projects to improve my skills
+<a href="https://skillupmentor.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/88553986" width="15">  SkillUp Mentor</a> Projects to improve my skills
 </h4></br></br>
 
 ## :hammer_and_wrench: Languages and Tools:
