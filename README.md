@@ -34,7 +34,7 @@ _**Univerza v Mariboru** - Oct 2015 - Sep 2022_
 - Bachelor of Science in Computer Science and Information Technologies
 - Master of Science in Information Technology and Communication Technologies
 
-With master thesis on Evaluation and comparison of software quality within modern web applications.</br></br>
+With master thesis on Evaluation and comparison of software quality within modern web applications.</br>
 
 #### Study abroad
 _**Universidad de Las Palmas de Gran Canaria - Spain** - Sep 2020 - Mar 2021_
